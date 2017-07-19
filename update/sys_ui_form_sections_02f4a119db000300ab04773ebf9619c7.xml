@@ -7,41 +7,13 @@
             <sys_created_on>2017-07-18 06:47:24</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>02f42519db000300ab04773ebf961926</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_142118_nationali_national" name="x_142118_nationali_national" sys_domain="global" view="Default view">02f4a119db000300ab04773ebf9619c7</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="x_142118_nationali_national" sys_domain="global" view="Default view">d97f78b3dbb33200ab04773ebf9619b5</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-18 06:47:24</sys_updated_on>
-        </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-18 06:47:24</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>0ef42519db000300ab04773ebf961926</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_142118_nationali_national" name="x_142118_nationali_national" sys_domain="global" view="Default view">02f4a119db000300ab04773ebf9619c7</sys_ui_form>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_142118_nationali_national" sys_domain="global" view="Default view">06f4a119db000300ab04773ebf9619c6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-18 06:47:24</sys_updated_on>
-        </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-18 07:24:35</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>3e7d251ddb000300ab04773ebf961942</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_142118_nationali_national" name="x_142118_nationali_national" sys_domain="global" view="Default view">02f4a119db000300ab04773ebf9619c7</sys_ui_form>
-            <sys_ui_section caption="LOG" display_value="LOG" name="x_142118_nationali_national" sys_domain="global" view="Default view">727d251ddb000300ab04773ebf961940</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-18 07:24:35</sys_updated_on>
+            <sys_updated_on>2017-07-18 11:49:37</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_142118_nationali_national</name>

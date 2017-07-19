@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_both</availability>
+        <billable>false</billable>
+        <category display_value="service ">a5211211db800300ab04773ebf961939</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<h1 class="product-name" style="box-sizing: border-box; margin: 8px 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-weight: normal; font-stretch: inherit; font-size: 20px; line-height: 24px; font-family: Montserrat; vertical-align: baseline;">Logitech MK 215 Keyboard &amp; Mouse Black</h1>
+<p> </p>
+<div class="product-info wrapper" style="box-sizing: border-box; margin: 0px auto; padding: 0px; border: 0px; font-variant-numeric: inherit; font-stretch: inherit; font-size: 12px; line-height: inherit; font-family: Montserrat; vertical-align: baseline; width: 1008px;">
+<div class="tabs-block" style="box-sizing: border-box; margin: 40px 0px 0px 40px; padding: 40px 0px 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; min-height: inherit; display: inline-block; float: left; width: 463.672px;">
+<ul class="tabs pdp productTabs" style="box-sizing: border-box; margin: 0px; padding: 5px 0px 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; list-style: none inside;"><li class="active" style="box-sizing: border-box; margin: 0px auto; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 14px; line-height: 1.8; font-family: inherit; vertical-align: baseline; display: block; width: 426.578px;">
+<div class="tab-details" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">
+<ul class="item-desc" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; list-style: disc inside;"><li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 12px; line-height: inherit; font-family: inherit; vertical-align: baseline; width: 426.578px; float: none; list-style-type: none;">The Logitech MK215 Keyboard and Mouse Combo comes with 2.4 GHz connectivity to operate in 10-metre range. This compact keyboard-and-mouse set features 128-bit AES encryption to protect your important information.</li></ul>
+<ul style="box-sizing: border-box; margin: 0px; padding: 0px 0px 0px 15px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; list-style: disc inside;"><li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 12px; line-height: inherit; font-family: inherit; vertical-align: baseline; width: 411.578px; float: none;">High definition optical tracking</li><li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 12px; line-height: inherit; font-family: inherit; vertical-align: baseline; width: 411.578px; float: none;">Reliable wireless (up to 10 m)</li><li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 12px; line-height: inherit; font-family: inherit; vertical-align: baseline; width: 411.578px; float: none;">Compact, space-saving</li><li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 12px; line-height: inherit; font-family: inherit; vertical-align: baseline; width: 411.578px; float: none;">Whisper-quiet keys</li></ul>
+</div>
+</li></ul>
+<div id="servicableUssid" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"> </div>
+</div>
+</div>
+<div class="SpecWrap" style="box-sizing: border-box; margin: 45px 25px 35px; padding: 0px; border: 1px solid #ebebeb; font-variant-numeric: inherit; font-stretch: inherit; font-size: 12px; line-height: inherit; font-family: Montserrat; vertical-align: baseline;"> </div>]]></description>
+        <entitlement_script/>
+        <group/>
+        <icon/>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>keyboard</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=93e05edddb400300ab04773ebf9619fe&amp;sysparm_preview=true", "summary");</preview>
+        <price>65.0766</price>
+        <recurring_frequency/>
+        <recurring_price>50</recurring_price>
+        <roles/>
+        <sc_catalogs>c0be7653db7b3200ab04773ebf961958</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <short_description>this is keyboard.</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-18 10:02:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>93e05edddb400300ab04773ebf9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>keyboard</sys_name>
+        <sys_package display_value="nationalInfotech" source="x_142118_nationali">120efcfbdb733200ab04773ebf961943</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="nationalInfotech">120efcfbdb733200ab04773ebf961943</sys_scope>
+        <sys_update_name>sc_cat_item_93e05edddb400300ab04773ebf9619fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-18 10:02:37</sys_updated_on>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=93e05edddb400300ab04773ebf9619fe"/>
+    <fx_price action="delete_multiple" query="id=93e05edddb400300ab04773ebf9619fe"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>50</amount>
+        <currency display_value="GBP">GBP</currency>
+        <field>price</field>
+        <id>93e05edddb400300ab04773ebf9619fe</id>
+        <parent/>
+        <reference_amount>65.3031</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-18 10:02:37</sys_created_on>
+        <sys_id>31a1d211db800300ab04773ebf9619f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-18 10:02:37</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>50</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>93e05edddb400300ab04773ebf9619fe</id>
+        <parent/>
+        <reference_amount>50</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-18 10:02:37</sys_created_on>
+        <sys_id>75a1d211db800300ab04773ebf9619fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-18 10:02:37</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

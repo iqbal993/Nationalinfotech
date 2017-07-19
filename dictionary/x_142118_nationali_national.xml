@@ -2,6 +2,13 @@
 <database>
     <element audit="true" label="national" max_length="40" name="x_142118_nationali_national" type="collection">
         <element label="New Audio" max_length="40" name="u_audio_6" type="audio"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element label="it" sequence="0" value="bmc"/>
+                <element label="hr" sequence="1" value="account"/>
+                <element label="management" sequence="2" value="marketing"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_7" type="string">
             <choice>
                 <element label="Choice 1" sequence="0" value="Choice 1"/>
@@ -15,6 +22,7 @@
         <element label="New HTML" max_length="65536" name="u_html_5" type="html"/>
         <element label="New Icon" max_length="100" name="u_icon_10" type="icon"/>
         <element label="New Integer" max_length="40" name="u_integer_2" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_1" type="string"/>
         <element attributes="base_start=true" label="New Table Name" max_length="80" name="u_table_name_13" type="table_name"/>
         <element label="New URL" max_length="1024" name="u_url_11" type="url"/>
         <element label="New URL" max_length="1024" name="u_url_4" type="url"/>
