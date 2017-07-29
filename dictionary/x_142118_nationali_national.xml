@@ -16,13 +16,15 @@
                 <element label="Choice 3" sequence="2" value="Choice 3"/>
             </choice>
         </element>
+        <element label="New Due Date" max_length="40" name="u_due_date_1" type="due_date"/>
         <element label="New Date" max_length="40" name="u_glide_date_3" type="glide_date"/>
         <element label="New Date" max_length="40" name="u_glide_date_8" type="glide_date"/>
         <element label="New Date/Time" max_length="40" name="u_glide_date_time_9" type="glide_date_time"/>
         <element label="New HTML" max_length="65536" name="u_html_5" type="html"/>
         <element label="New Icon" max_length="100" name="u_icon_10" type="icon"/>
         <element label="New Integer" max_length="40" name="u_integer_2" type="integer"/>
-        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="email" mandatory="true" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" mandatory="true" max_length="40" name="u_string_2" type="string"/>
         <element attributes="base_start=true" label="New Table Name" max_length="80" name="u_table_name_13" type="table_name"/>
         <element label="New URL" max_length="1024" name="u_url_11" type="url"/>
         <element label="New URL" max_length="1024" name="u_url_4" type="url"/>
