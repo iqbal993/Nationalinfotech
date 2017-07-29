@@ -5,7 +5,7 @@
         <hint/>
         <name>national</name>
         <order/>
-        <roles>x_142118_nationali.national_user</roles>
+        <roles/>
         <sys_class_name>sys_ui_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-07-13 12:08:12</sys_created_on>
