@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="national">f47e7073dbb33200ab04773ebf96191d</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint>a</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>ALL</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_142118_nationali_national</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>testview</query>
+        <report/>
+        <roles>activity_admin,asset,role_delegator,x_142118_demo_app.user,x_142118_frist_tes.char_user,x_142118_nationali.NationalRole,x_142118_new1.new1_user,x_142118_second_te.user,x_142118_snow.user,itil</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-29 06:29:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>82e90a3cdb180300ab04773ebf96195e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ALL</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="nationalInfotech" source="x_142118_nationali">120efcfbdb733200ab04773ebf961943</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="nationalInfotech">120efcfbdb733200ab04773ebf961943</sys_scope>
+        <sys_update_name>sys_app_module_82e90a3cdb180300ab04773ebf96195e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-29 06:29:37</sys_updated_on>
+        <timeline_page/>
+        <title>ALL</title>
+        <uncancelable>false</uncancelable>
+        <view_name>nationalView</view_name>
+        <window_name/>
+    </sys_app_module>
+</record_update>
